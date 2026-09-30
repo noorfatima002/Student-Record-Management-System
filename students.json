@@ -1,0 +1,44 @@
+[
+    {
+        "id": "S001",
+        "name": "ALI",
+        "age": 18,
+        "course": "PYTHON PROGRAMMING",
+        "marks": 70.0
+    },
+    {
+        "id": "S002",
+        "name": "AHMED",
+        "age": 19,
+        "course": "WEB DEVELOPMENT",
+        "marks": 80.0
+    },
+    {
+        "id": "S003",
+        "name": "AYESHA",
+        "age": 21,
+        "course": "PROGRAMMING",
+        "marks": 80.0
+    },
+    {
+        "id": "S004",
+        "name": "SANA",
+        "age": 21,
+        "course": "GRAPHIC DESIGNING",
+        "marks": 50.0
+    },
+    {
+        "id": "S005",
+        "name": "MAHAM ALI",
+        "age": 26,
+        "course": "AI/ML",
+        "marks": 65.0
+    },
+    {
+        "id": "S006",
+        "name": "NAUMAN",
+        "age": 24,
+        "course": "FRONT-END DEVELOPMENT",
+        "marks": 90.0
+    }
+]
